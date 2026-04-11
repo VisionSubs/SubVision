@@ -1,0 +1,1 @@
+Repositório com algumas(espero) das legendas feitas pela SubVision
