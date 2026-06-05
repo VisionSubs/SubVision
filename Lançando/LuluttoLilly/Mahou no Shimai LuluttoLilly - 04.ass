@@ -860,7 +860,7 @@ Dialogue: 0,0:19:25.48,0:19:27.19,Typesetting,,0,0,0,,{=12}{\fnDK Bupkis\c&H6F6F
 Dialogue: 0,0:19:25.48,0:19:27.19,Typesetting,,0,0,0,,{=13}{\fnDK Bupkis\c&H6F6F6D&\fax0.004628\fscx42.20\fscy42.27\frz-7.2123\frx0.4054\fry0.4115\org(1538.59,270.4)\pos(1538.51,270.4)}por hoje
 Dialogue: 0,0:19:25.48,0:19:27.19,Typesetting,,0,0,0,,{=14}{\fnDK Bupkis\c&H6F6F6D&\fax0.004544\fscx42.20\fscy42.31\frz-7.1796\frx0.4043\fry0.4103\org(1554.13,301.19)\pos(1554.05,301.19)}-Love-Love
 Dialogue: 0,0:23:52.99,0:23:58.00,Typesetting,,0,0,0,,{\fnCC EmpireStateGothic\fscx200\pos(960,628)\blur0.7\c&HE58600&}Bem-vindos ao Quiz Infernal
-Dialogue: 50,0:00:22.71,0:00:24.75,Diálogo,,0,0,0,,Tá calor hoje...
+Dialogue: 50,0:00:22.71,0:00:24.75,Italic,,0,0,0,,Tá calor hoje...
 Dialogue: 50,0:00:27.97,0:00:31.43,Diálogo-Alt 2,,0,0,0,,E está começando o {\i1}Happiness Music{\i0} de hoje!
 Dialogue: 50,0:00:31.43,0:00:35.01,Diálogo-Alt 2,,0,0,0,,Espero que gostem da performance \Nque preparamos para esta noite!
 Dialogue: 50,0:00:32.01,0:00:35.01,Diálogo,,0,0,0,,{\an8}Oh, tá passando um programa de música!
@@ -1158,7 +1158,7 @@ Dialogue: 50,0:19:21.31,0:19:23.52,Diálogo,,0,0,0,,Minha transformação se des
 Dialogue: 50,0:19:23.52,0:19:25.48,Diálogo,,0,0,0,,Tenha cuidado!
 Dialogue: 50,0:19:25.48,0:19:29.11,Diálogo,,0,0,0,,Minha nossa.\NO que você estava fazendo?
 Dialogue: 50,0:19:30.94,0:19:32.44,Diálogo,,0,0,0,,Olá!
-Dialogue: 50,0:19:32.44,0:19:35.11,Diálogo,,0,0,0,,Muito bem, conheça\Nnossa mais nova membra!
+Dialogue: 50,0:19:32.44,0:19:35.11,Diálogo,,0,0,0,,Muito bem, conheça\Nnossa mais nova integrante!
 Dialogue: 50,0:19:35.11,0:19:36.82,Diálogo,,0,0,0,,Aí está! Finalmente!
 Dialogue: 50,0:19:36.82,0:19:39.53,Diálogo,,0,0,0,,S-Sim. Bem, eu sou a Lulu!
 Dialogue: 50,0:19:39.53,0:19:41.20,Diálogo,,0,0,0,,É-É um prazer te conhecer.
