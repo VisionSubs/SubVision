@@ -237,24 +237,24 @@ Dialogue: 50,0:14:05.82,0:14:09.87,Diálogo,,0,0,0,,Lululila, pululila, transfor
 Dialogue: 50,0:14:20.42,0:14:22.34,Diálogo,,0,0,0,,O quê?!
 Dialogue: 50,0:14:28.31,0:14:31.60,Diálogo,,0,0,0,,E por último, teremos nossa novíssima\N música juntas! Cantem junto com a gente!
 Dialogue: 50,0:14:31.60,0:14:33.23,Diálogo,,0,0,0,,Vamos lá!
-Dialogue: 51,0:14:49.74,0:14:54.71,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Te encontrar não foi acaso, eu sei\N
-Dialogue: 51,0:14:54.71,0:15:01.09,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Como estrelas se ligando e virando constelação no céu\N
-Dialogue: 51,0:15:01.09,0:15:06.09,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Mas se nossos corações conseguirem se conectar, como se um capricho do destino fosse\N
-Dialogue: 51,0:15:06.09,0:15:09.81,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Agora eu entendo bem, que isso é um milagre, afinal\N
-Dialogue: 51,0:15:09.81,0:15:12.72,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Nossos sentimentos se juntam\N
-Dialogue: 51,0:15:12.72,0:15:15.69,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Meu coração bate em sincronia\N
-Dialogue: 51,0:15:15.69,0:15:17.77,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Mais imaginação, deixando crescer essa fantasia\N
-Dialogue: 51,0:15:17.77,0:15:24.40,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Me leva, UFO\N
-Dialogue: 51,0:15:22.53,0:15:24.86,Typesetting,INSERT,0,0,140,,{\3c&HF500FF&\an2\bord4}Quando a gente se apaixona\N
-Dialogue: 51,0:15:24.40,0:15:27.32,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Dá pra voar, e os céus alcançar\N
-Dialogue: 51,0:15:25.32,0:15:27.32,Typesetting,INSERT,0,0,140,,{\3c&HF500FF&\an2\bord4}Mágico!\N
-Dialogue: 51,0:15:27.32,0:15:28.74,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Mesmo um sonho tão distante\N
-Dialogue: 51,0:15:28.74,0:15:33.79,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Se eu estiver junto de você\N
-Dialogue: 51,0:15:33.79,0:15:38.58,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Parece que posso realizar\N
-Dialogue: 51,0:15:38.58,0:15:40.25,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Universo!\N
-Dialogue: 51,0:15:40.25,0:15:44.63,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Não se afasta, vem comigo\N
-Dialogue: 51,0:15:44.63,0:15:47.63,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}Um amor leve feito estrela cadente, \Ne sentados na lua crescente, num rendez-vous pelo céu
-Dialogue: 51,0:15:47.63,0:15:52.76,Typesetting,INSERT,0,0,0,,{\3c&HF500FF&\an2\bord4}
+Dialogue: 51,0:14:49.74,0:14:54.71,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}T{*\3c&HE048E3&}e {*\3c&HDE4DD8&}e{*\3c&HDD4FD2&}n{*\3c&HDB52CC&}c{*\3c&HDA54C7&}o{*\3c&HD957C1&}n{*\3c&HD859BB&}t{*\3c&HD75CB6&}r{*\3c&HD55EB0&}a{*\3c&HD461AA&}r {*\3c&HD2669F&}n{*\3c&HD16899&}ã{*\3c&HCF6B94&}o {*\3c&HCD7089&}f{*\3c&HCC7283&}o{*\3c&HCB747D&}i {*\3c&HC87972&}a{*\3c&HC77C6C&}c{*\3c&HC67E67&}a{*\3c&HC58161&}s{*\3c&HC3835B&}o{*\3c&HC28656&}, {*\3c&HC08B4A&}e{*\3c&HBF8D45&}u {*\3c&HBC9239&}s{*\3c&HBB9534&}e{*\3c&HBA972E&}i{\3c&HB99A29&}
+Dialogue: 51,0:14:54.71,0:15:01.09,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}C{*\3c&HE147E5&}o{*\3c&HE049E1&}m{*\3c&HDF4ADE&}o {*\3c&HDE4DD6&}e{*\3c&HDD4FD3&}s{*\3c&HDC51CF&}t{*\3c&HDB52CC&}r{*\3c&HDB54C8&}e{*\3c&HDA55C4&}l{*\3c&HD957C1&}a{*\3c&HD859BD&}s {*\3c&HD75CB6&}s{*\3c&HD65DB2&}e {*\3c&HD460AB&}l{*\3c&HD462A7&}i{*\3c&HD364A4&}g{*\3c&HD265A0&}a{*\3c&HD1679C&}n{*\3c&HD06899&}d{*\3c&HD06A95&}o {*\3c&HCE6D8E&}e {*\3c&HCD7087&}v{*\3c&HCC7283&}i{*\3c&HCB737F&}r{*\3c&HCA757C&}a{*\3c&HCA7778&}n{*\3c&HC97875&}d{*\3c&HC87A71&}o {*\3c&HC67D6A&}c{*\3c&HC67F66&}o{*\3c&HC58062&}n{*\3c&HC4825F&}s{*\3c&HC3835B&}t{*\3c&HC38558&}e{*\3c&HC28654&}l{*\3c&HC18850&}a{*\3c&HC08A4D&}ç{*\3c&HBF8B49&}ã{*\3c&HBF8D45&}o {*\3c&HBD903E&}n{*\3c&HBC923B&}o {*\3c&HBB9533&}c{*\3c&HBA9630&}é{*\3c&HB9982C&}u{\3c&HB99A29&}
+Dialogue: 51,0:15:01.09,0:15:06.09,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}M{*\3c&HE147E6&}a{*\3c&HE148E4&}s {*\3c&HE04ADF&}s{*\3c&HDF4BDD&}e {*\3c&HDE4DD9&}n{*\3c&HDE4ED6&}o{*\3c&HDD4FD4&}s{*\3c&HDD50D2&}s{*\3c&HDC51CF&}o{*\3c&HDC52CD&}s {*\3c&HDB54C9&}c{*\3c&HDA55C6&}o{*\3c&HDA56C4&}r{*\3c&HD957C2&}a{*\3c&HD958BF&}ç{*\3c&HD859BD&}õ{*\3c&HD85ABB&}e{*\3c&HD75BB9&}s {*\3c&HD65DB4&}c{*\3c&HD65EB2&}o{*\3c&HD55FAF&}n{*\3c&HD560AD&}s{*\3c&HD461AB&}e{*\3c&HD462A9&}g{*\3c&HD363A6&}u{*\3c&HD364A4&}i{*\3c&HD265A2&}r{*\3c&HD2669F&}e{*\3c&HD1679D&}m {*\3c&HD06999&}s{*\3c&HD06A96&}e {*\3c&HCF6C92&}c{*\3c&HCE6D8F&}o{*\3c&HCE6E8D&}n{*\3c&HCD6F8B&}e{*\3c&HCD7089&}c{*\3c&HCD7186&}t{*\3c&HCC7284&}a{*\3c&HCC7382&}r{*\3c&HCB747F&}, {*\3c&HCA767B&}c{*\3c&HCA7779&}o{*\3c&HC97876&}m{*\3c&HC97974&}o {*\3c&HC87B6F&}s{*\3c&HC77C6D&}e {*\3c&HC67E69&}u{*\3c&HC67F66&}m {*\3c&HC58162&}c{*\3c&HC4825F&}a{*\3c&HC4835D&}p{*\3c&HC3845B&}r{*\3c&HC38559&}i{*\3c&HC28656&}c{*\3c&HC28754&}h{*\3c&HC18852&}o {*\3c&HC08A4D&}d{*\3c&HC08B4B&}o {*\3c&HBF8D46&}d{*\3c&HBE8E44&}e{*\3c&HBE8F42&}s{*\3c&HBD903F&}t{*\3c&HBD913D&}i{*\3c&HBC923B&}n{*\3c&HBC9339&}o {*\3c&HBB9534&}f{*\3c&HBA9632&}o{*\3c&HBA972F&}s{*\3c&HB9982D&}s{*\3c&HB9992B&}e{\3c&HB99A29&}
+Dialogue: 51,0:15:06.09,0:15:09.81,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}Agora eu entendo bem,
+Dialogue: 51,0:15:09.81,0:15:12.72,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}q{*\3c&HE048E2&}u{*\3c&HDF4BDB&}e {*\3c&HDC51CE&}i{*\3c&HDA54C7&}s{*\3c&HD957C1&}s{*\3c&HD85ABA&}o {*\3c&HD560AD&}é {*\3c&HD265A0&}u{*\3c&HD16899&}m {*\3c&HCE6E8C&}m{*\3c&HCC7185&}i{*\3c&HCB747F&}l{*\3c&HC97778&}a{*\3c&HC87A71&}g{*\3c&HC77D6B&}r{*\3c&HC57F64&}e{*\3c&HC4825D&}, {*\3c&HC18850&}a{*\3c&HC08B4A&}f{*\3c&HBE8E43&}i{*\3c&HBD913C&}n{*\3c&HBB9436&}a{*\3c&HBA972F&}l{\3c&HB99A29&}
+Dialogue: 51,0:15:12.72,0:15:15.69,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}Nossos sentimentos se juntam
+Dialogue: 51,0:15:15.69,0:15:17.77,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}M{*\3c&HE048E2&}e{*\3c&HDF4BDB&}u {*\3c&HDC51CE&}c{*\3c&HDA54C7&}o{*\3c&HD957C1&}r{*\3c&HD85ABA&}a{*\3c&HD65DB4&}ç{*\3c&HD560AD&}ã{*\3c&HD362A6&}o {*\3c&HD16899&}b{*\3c&HCF6B92&}a{*\3c&HCE6E8C&}t{*\3c&HCC7185&}e {*\3c&HC97778&}e{*\3c&HC87A71&}m {*\3c&HC57F64&}s{*\3c&HC4825D&}i{*\3c&HC28557&}n{*\3c&HC18850&}c{*\3c&HC08B4A&}r{*\3c&HBE8E43&}o{*\3c&HBD913C&}n{*\3c&HBB9436&}i{*\3c&HBA972F&}a{\3c&HB99A29&}
+Dialogue: 51,0:15:17.77,0:15:24.40,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HB99A29&\b1}Mais imaginação, deixando crescer essa fantasia
+Dialogue: 51,0:15:22.53,0:15:24.86,Typesetting,INSERT,0,0,140,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}Me leva, UFO
+Dialogue: 51,0:15:24.40,0:15:27.32,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HB99A29&\b1}Quando a gente se apaixona
+Dialogue: 51,0:15:25.32,0:15:27.32,Typesetting,INSERT,0,0,140,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}Dá pra voar, e os céus alcançar
+Dialogue: 51,0:15:27.32,0:15:28.74,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}M{*\3c&HDC52CD&}á{*\3c&HD65EB2&}g{*\3c&HD06A96&}i{*\3c&HCA767B&}c{*\3c&HC4825F&}o{*\3c&HBE8E44&}!{\3c&HB99A29&}
+Dialogue: 51,0:15:28.74,0:15:33.79,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}M{*\3c&HE049E1&}e{*\3c&HDE4CDA&}s{*\3c&HDD4FD3&}m{*\3c&HDB52CC&}o {*\3c&HD858BE&}u{*\3c&HD75BB7&}m {*\3c&HD462A9&}s{*\3c&HD265A1&}o{*\3c&HD1689A&}n{*\3c&HCF6B93&}h{*\3c&HCE6E8C&}o {*\3c&HCB747E&}t{*\3c&HC97777&}ã{*\3c&HC87A70&}o {*\3c&HC58161&}d{*\3c&HC3845A&}i{*\3c&HC28753&}s{*\3c&HC08A4C&}t{*\3c&HBF8D45&}a{*\3c&HBD903E&}n{*\3c&HBC9337&}t{*\3c&HBA9630&}e{\3c&HB99A29&}
+Dialogue: 51,0:15:33.79,0:15:38.58,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}S{*\3c&HE147E5&}e {*\3c&HDF4ADE&}e{*\3c&HDE4CDA&}u {*\3c&HDD4FD3&}e{*\3c&HDC51CF&}s{*\3c&HDB52CC&}t{*\3c&HDB54C8&}i{*\3c&HDA55C4&}v{*\3c&HD957C1&}e{*\3c&HD859BD&}r {*\3c&HD75CB6&}j{*\3c&HD65DB2&}u{*\3c&HD55FAF&}n{*\3c&HD460AB&}t{*\3c&HD462A7&}o {*\3c&HD265A0&}d{*\3c&HD1679C&}e {*\3c&HD06A95&}v{*\3c&HCF6C92&}o{*\3c&HCE6D8E&}c{*\3c&HCD6F8A&}ê {*\3c&HCC7283&}p{*\3c&HCB737F&}a{*\3c&HCA757C&}r{*\3c&HCA7778&}e{*\3c&HC97875&}c{*\3c&HC87A71&}e {*\3c&HC67D6A&}q{*\3c&HC67F66&}u{*\3c&HC58062&}e {*\3c&HC3835B&}p{*\3c&HC38558&}o{*\3c&HC28654&}s{*\3c&HC18850&}s{*\3c&HC08A4D&}o {*\3c&HBF8D45&}r{*\3c&HBE8E42&}e{*\3c&HBD903E&}a{*\3c&HBC923B&}l{*\3c&HBC9337&}i{*\3c&HBB9533&}z{*\3c&HBA9630&}a{*\3c&HB9982C&}r{\3c&HB99A29&}
+Dialogue: 51,0:15:38.58,0:15:40.25,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}U{*\3c&HDD4FD3&}n{*\3c&HD858BE&}i{*\3c&HD462A9&}v{*\3c&HCF6B93&}e{*\3c&HCB747E&}r{*\3c&HC67E69&}s{*\3c&HC28753&}o{*\3c&HBD903E&}!{\3c&HB99A29&}
+Dialogue: 51,0:15:40.25,0:15:44.63,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}N{*\3c&HE049E1&}ã{*\3c&HDE4CD9&}o {*\3c&HDB53CA&}s{*\3c&HD956C2&}e {*\3c&HD65DB3&}a{*\3c&HD460AB&}f{*\3c&HD364A3&}a{*\3c&HD1679C&}s{*\3c&HCF6A94&}t{*\3c&HCE6E8C&}a{*\3c&HCC7185&}, {*\3c&HC97875&}v{*\3c&HC77B6E&}e{*\3c&HC67F66&}m {*\3c&HC28557&}c{*\3c&HC1894F&}o{*\3c&HBF8C47&}m{*\3c&HBD8F40&}i{*\3c&HBC9338&}g{*\3c&HBA9630&}o{\3c&HB99A29&}
+Dialogue: 51,0:15:44.63,0:15:47.63,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}U{*\3c&HE048E3&}m {*\3c&HDE4DD8&}a{*\3c&HDD4FD3&}m{*\3c&HDC52CD&}o{*\3c&HDA54C8&}r {*\3c&HD859BD&}l{*\3c&HD75BB7&}e{*\3c&HD65EB2&}v{*\3c&HD560AC&}e {*\3c&HD265A1&}f{*\3c&HD1679C&}e{*\3c&HD06A96&}i{*\3c&HCF6C91&}t{*\3c&HCE6E8B&}o {*\3c&HCB7380&}e{*\3c&HCA767B&}s{*\3c&HC97875&}t{*\3c&HC87A70&}r{*\3c&HC77D6A&}e{*\3c&HC57F65&}l{*\3c&HC4825F&}a {*\3c&HC28654&}c{*\3c&HC1894F&}a{*\3c&HC08B49&}d{*\3c&HBE8E44&}e{*\3c&HBD903E&}n{*\3c&HBC9239&}t{*\3c&HBB9533&}e{*\3c&HBA972E&},{\3c&HB99A29&}
+Dialogue: 51,0:15:47.63,0:15:52.76,Typesetting,INSERT,0,0,60,,{\fad(200,300)\blur1\bord4\an2\fnNunito\3c&HE246E9&\b1}e {*\3c&HE049E1&}s{*\3c&HDF4BDD&}e{*\3c&HDE4CD9&}n{*\3c&HDD4ED5&}t{*\3c&HDD50D1&}a{*\3c&HDC51CE&}d{*\3c&HDB53CA&}o{*\3c&HDA55C6&}s {*\3c&HD858BE&}n{*\3c&HD85ABA&}a {*\3c&HD65DB3&}l{*\3c&HD55FAF&}u{*\3c&HD460AB&}a {*\3c&HD364A3&}c{*\3c&HD265A0&}r{*\3c&HD1679C&}e{*\3c&HD06998&}s{*\3c&HCF6A94&}c{*\3c&HCF6C90&}e{*\3c&HCE6E8C&}n{*\3c&HCD7089&}t{*\3c&HCC7185&}e{*\3c&HCB7381&}, {*\3c&HCA7679&}n{*\3c&HC97875&}u{*\3c&HC87A71&}m {*\3c&HC67D6A&}e{*\3c&HC67F66&}n{*\3c&HC58062&}c{*\3c&HC4825E&}o{*\3c&HC3845A&}n{*\3c&HC28557&}t{*\3c&HC28753&}r{*\3c&HC1894F&}o {*\3c&HBF8C47&}p{*\3c&HBE8E43&}e{*\3c&HBD8F40&}l{*\3c&HBD913C&}o {*\3c&HBB9434&}c{*\3c&HBA9630&}é{*\3c&HB9982C&}u{\3c&HB99A29&}
 Dialogue: 50,0:16:07.15,0:16:08.16,Diálogo,,0,0,0,,Sena...
 Dialogue: 50,0:16:08.91,0:16:09.78,Diálogo,,0,0,0,,Eu sei.
 Dialogue: 50,0:16:12.03,0:16:13.99,Diálogo,,0,0,0,,Eu acho que...
@@ -274,10 +274,10 @@ Dialogue: 50,0:16:53.99,0:16:56.79,Diálogo,,0,0,0,,Estou muito feliz por ter\N 
 Dialogue: 50,0:16:56.79,0:16:59.00,Diálogo,,0,0,0,,Este show foi um sucesso!
 Dialogue: 50,0:16:59.58,0:17:02.92,Diálogo,,0,0,0,,Eu nunca vou esquecer o dia de hoje!
 Dialogue: 50,0:17:03.38,0:17:06.84,Diálogo,,0,0,0,,Passei a amar cantar ainda mais!
-Dialogue: 50,0:17:07.71,0:17:12.01,Diálogo,,0,0,0,,Esperamos continuar contando\n com o apoio de vocês à LuluttoLilly!
+Dialogue: 50,0:17:07.71,0:17:12.01,Diálogo,,0,0,0,,Esperamos continuar contando\n com o apoio de vocês pro LuluttoLilly!
 Dialogue: 50,0:17:12.93,0:17:14.85,Diálogo,,0,0,0,,Muito obrigada!
 Dialogue: 50,0:17:17.02,0:17:19.64,Diálogo,,0,0,0,,Muito obrigada, pessoal!
-Dialogue: 50,0:17:57.72,0:17:58.64,Diálogo,,0,0,0,,Eu já me decidi.
+Dialogue: 50,0:17:57.72,0:17:58.64,Italic,,0,0,0,,Eu já me decidi.
 Dialogue: 50,0:18:11.15,0:18:14.03,Diálogo,,0,0,0,,Eu não tô conseguindo dormir...
 Dialogue: 50,0:18:15.03,0:18:17.20,Diálogo,,0,0,0,,Meu coração ainda está disparado...
 Dialogue: 50,0:18:17.20,0:18:19.29,Diálogo,,0,0,0,,Parece que não acabou ainda.
@@ -296,16 +296,16 @@ Dialogue: 50,0:19:03.04,0:19:05.04,Diálogo,,0,0,0,,fez todo mundo feliz.
 Dialogue: 50,0:19:06.75,0:19:07.96,Diálogo,,0,0,0,,Parece que estou vivendo um sonho.
 Dialogue: 50,0:19:09.50,0:19:12.84,Diálogo,,0,0,0,,Rui, está frio...
 Dialogue: 50,0:19:13.13,0:19:14.80,Diálogo,,0,0,0,,Ah, desculpa.
-Dialogue: 50,0:19:28.44,0:19:29.36,Diálogo,,0,0,0,,Onee-chan. {onee-chan, eu desisto}
+Dialogue: 50,0:19:28.44,0:19:29.36,Diálogo,,0,0,0,,Onee-chan.
 Dialogue: 50,0:19:30.02,0:19:31.23,Diálogo,,0,0,0,,Bom dia!
 Dialogue: 50,0:19:31.23,0:19:32.11,Diálogo,,0,0,0,,Bom dia.
 Dialogue: 50,0:19:32.61,0:19:34.15,Diálogo,,0,0,0,,Você acordou cedo hoje.
-Dialogue: 50,0:19:34.15,0:19:36.70,Diálogo,,0,0,0,,Você também, Fuuko.
+Dialogue: 50,0:19:34.15,0:19:36.70,Diálogo,,0,0,0,,Você também, Fuu.
 Dialogue: 50,0:19:36.70,0:19:39.12,Diálogo,,0,0,0,,É. Eu acabei acordando.
-Dialogue: 50,0:19:41.16,0:19:46.37,Diálogo,,0,0,0,,Ei... ontem aconteceu uma coisa boa comigo.
+Dialogue: 50,0:19:41.16,0:19:46.37,Diálogo,,0,0,0,,Ei... ontem aconteceu\N uma coisa boa comigo.
 Dialogue: 50,0:19:47.21,0:19:48.13,Diálogo,,0,0,0,,O que foi?
 Dialogue: 50,0:19:49.00,0:19:51.00,Diálogo,,0,0,0,,Não, deixa pra lá.
-Dialogue: 50,0:19:54.63,0:19:56.51,Diálogo,,0,0,0,,Hoje parece que vai ser um clima agradavel.
+Dialogue: 50,0:19:54.63,0:19:56.51,Diálogo,,0,0,0,,Hoje parece que vai\N ser um clima agradável.
 Dialogue: 50,0:19:56.51,0:19:57.26,Diálogo,,0,0,0,,Sim.
 Dialogue: 50,0:19:58.30,0:20:00.80,Diálogo,,0,0,0,,Talvez eu vá dar uma caminhada.
 Dialogue: 50,0:20:01.51,0:20:02.76,Diálogo,,0,0,0,,Eu também vou!
@@ -325,15 +325,15 @@ Dialogue: 50,0:20:45.77,0:20:46.48,Diálogo,,0,0,0,,Sim!
 Dialogue: 50,0:20:47.10,0:20:51.23,Diálogo,,0,0,0,,Ah! Então a gente é igual! {É a mesma coisa}
 Dialogue: 50,0:20:59.78,0:21:00.99,Diálogo,,0,0,0,,Hã?
 Dialogue: 50,0:21:08.16,0:21:09.83,Italic,,0,0,0,,Eu nunca tinha pensado...
-Dialogue: 50,0:21:10.29,0:21:13.79,Italic,,0,0,0,,que poderia existir outra maga além de mim.
-Dialogue: 50,0:21:13.79,0:21:15.00,Diálogo-Alt,,0,0,0,,Sabe de uma coisa?
-Dialogue: 50,0:21:15.75,0:21:18.26,Diálogo-Alt,,0,0,0,,Eu posso realmente usar magia!
-Dialogue: 50,0:21:20.63,0:21:22.05,Diálogo-Alt,,0,0,0,,Sabe de uma coisa?
-Dialogue: 50,0:21:22.68,0:21:24.72,Diálogo-Alt,,0,0,0,,Eu posso realmente usar magia!
+Dialogue: 50,0:21:10.29,0:21:13.79,Italic,,0,0,0,,que poderia existir outra\N maga além de mim.
+Dialogue: 50,0:21:13.79,0:21:15.00,Diálogo-Alt,,0,0,0,,Porque...
+Dialogue: 50,0:21:15.75,0:21:18.26,Diálogo-Alt,,0,0,0,,Eu consigo usar magia de verdade.
+Dialogue: 50,0:21:20.63,0:21:22.05,Diálogo-Alt,,0,0,0,,Porque...
+Dialogue: 50,0:21:22.68,0:21:24.72,Diálogo-Alt,,0,0,0,,Eu consigo usar magia de verdade.
 Dialogue: 50,0:21:25.89,0:21:26.93,Diálogo-Alt,,0,0,0,,Hã?
-Dialogue: 50,0:21:27.56,0:21:28.31,Diálogo-Alt,,0,0,0,,Toma!
-Dialogue: 50,0:21:29.02,0:21:31.60,Diálogo-Alt,,0,0,0,,Vi isso outro dia\Ne achei uma gracinha,
-Dialogue: 50,0:21:31.60,0:21:33.81,Diálogo-Alt,,0,0,0,,então vou te dar um, Onee-chan!
+Dialogue: 50,0:21:27.56,0:21:28.31,Diálogo-Alt,,0,0,0,,Aqui!
+Dialogue: 50,0:21:29.02,0:21:31.60,Diálogo-Alt,,0,0,0,,Eu vi esses outro dia e achei fofos,
+Dialogue: 50,0:21:31.60,0:21:33.81,Diálogo-Alt,,0,0,0,,então vou te dar um!
 Dialogue: 50,0:21:34.31,0:21:37.07,Diálogo-Alt,,0,0,0,,Ela vinha em par.
 Dialogue: 50,0:21:42.07,0:21:45.24,Diálogo-Alt,,0,0,0,,Vai dar tudo certo. É só fazermos o show\Ncomo sempre fazemos.
 Dialogue: 50,0:21:45.24,0:21:47.29,Diálogo-Alt,,0,0,0,,É só relaxar.
