@@ -1,0 +1,366 @@
+[Script Info]
+Title: SubVision
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Diálogo,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
+Style: Italic,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
+Style: Diálogo-Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000070,&HA000002E,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
+Style: Diálogo-Alt 2,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00701E00,&HA000002E,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
+Style: Typesetting [Junnin],Gandhi Sans,71,&H00FFFFFF,&H0000FFFF,&H00000008,&H00000008,0,0,0,0,100,100,0,0,1,0,0,5,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:09.26,0:00:11.53,Diálogo,,0,0,0,,Tudo chega ao fim.
+Dialogue: 10,0:00:11.93,0:00:16.04,Diálogo,,0,0,0,,Até o mais forte um dia cairá.
+Dialogue: 10,0:00:16.35,0:00:17.81,Diálogo,,0,0,0,,Trágico.
+Dialogue: 10,0:00:17.81,0:00:19.41,Diálogo,,0,0,0,,Realmente trágico.
+Dialogue: 10,0:00:20.51,0:00:25.21,Diálogo,,0,0,0,,Mas, para continuarmos vivendo,\N precisamos aceitar isso.
+Dialogue: 10,0:00:28.03,0:00:29.94,Diálogo,,0,0,0,,E como estava a situação?
+Dialogue: 10,0:00:31.62,0:00:35.38,Diálogo,,0,0,0,,E as flores continuam florescendo,\n mesmo em um lugar como este.
+Dialogue: 10,0:00:38.52,0:00:42.71,Diálogo-Alt,,0,0,0,,{\i1}A Corte do Norte em Quioto,\Na Corte do Sul em Yoshino...
+Dialogue: 10,0:00:42.71,0:00:47.11,Diálogo-Alt,,0,0,0,,{\i1}Era uma época dividida entre\n duas cortes, uma guerra civil sem fim.
+Dialogue: 10,0:00:48.39,0:00:49.94,Diálogo-Alt,,0,0,0,,{\i1}Avancem.
+Dialogue: 10,0:00:53.93,0:00:58.43,Diálogo-Alt,,0,0,0,,{\i1}O povo tinha fome de comida,\Nde trabalho, de diversão
+Dialogue: 10,0:00:58.43,0:01:01.24,Diálogo-Alt,,0,0,0,,{\i1}e da própria vida.
+Dialogue: 10,0:01:50.57,0:01:52.28,Diálogo,,0,0,0,,Olha, são os Kanze!
+Dialogue: 10,0:01:52.28,0:01:53.42,Diálogo,,0,0,0,,Kan-sama!
+Dialogue: 10,0:01:53.99,0:01:56.05,Italic,,0,0,0,,O que tem de tão interessante neles?
+Dialogue: 10,0:01:59.37,0:02:01.39,Diálogo,,0,0,0,,Que não aconteça nenhum problema hoje.
+Dialogue: 10,0:02:01.39,0:02:03.25,Diálogo,,0,0,0,,Ishiya, o que está fazendo?
+Dialogue: 10,0:02:03.25,0:02:04.17,Diálogo,,0,0,0,,Goro?
+Dialogue: 10,0:02:04.17,0:02:05.35,Diálogo,,0,0,0,,Está no meio da peça.
+Dialogue: 10,0:02:07.75,0:02:10.03,Diálogo,,0,0,0,,E lá vai ele de novo.
+Dialogue: 10,0:02:10.59,0:02:12.03,Diálogo,,0,0,0,,Sempre no mundo da lua.
+Dialogue: 10,0:02:15.55,0:02:18.59,Italic,,0,0,0,,Os ossos das aves são\N extremamente leves.
+Dialogue: 10,0:02:19.77,0:02:23.08,Italic,,0,0,0,,Essa é a razão delas conseguirem voar.
+Dialogue: 10,0:02:23.84,0:02:28.45,Italic,,0,0,0,,As pernas dos cavalos são muito finas,\Napenas para que possam correr rápido.
+Dialogue: 10,0:02:29.48,0:02:31.77,Italic,,0,0,0,,Os pássaros tem uma forma perfeita para voar.
+Dialogue: 10,0:02:32.41,0:02:34.87,Italic,,0,0,0,,E os cavalos para correr.
+Dialogue: 10,0:02:34.87,0:02:38.28,Italic,,0,0,0,,E então, para que os humanos\N nascem com essa forma?
+Dialogue: 10,0:02:38.28,0:02:39.17,Diálogo,,0,0,0,,Jovem mestre?
+Dialogue: 10,0:02:40.59,0:02:42.56,Italic,,0,0,0,,Não é para dançar.
+Dialogue: 10,0:02:44.38,0:02:45.97,Italic,,0,0,0,,Disso eu sei.
+Dialogue: 10,0:02:46.79,0:02:50.60,Italic,,0,0,0,,Dançar talvez seja algo não\N natural para seres humanos.
+Dialogue: 10,0:02:51.38,0:02:55.28,Italic,,0,0,0,,E mesmo assim, pessoas buscam a dança.
+Dialogue: 10,0:02:55.59,0:02:57.03,Diálogo,,0,0,0,,Não consigo entender.
+Dialogue: 10,0:02:57.03,0:02:59.94,Diálogo,,0,0,0,,Jovem mestre? Ei, Jovem Mestre!
+Dialogue: 10,0:03:15.28,0:03:16.91,Diálogo,,0,0,0,,Chegou a sua vez!
+Dialogue: 10,0:03:16.91,0:03:18.26,Diálogo,,0,0,0,,Jovem mestre!
+Dialogue: 10,0:03:18.57,0:03:19.84,Diálogo,,0,0,0,,Ei...
+Dialogue: 10,0:03:26.50,0:03:28.10,Diálogo,,0,0,0,,Jovem mestre! Jovem mestre!
+Dialogue: 10,0:03:28.38,0:03:29.97,Diálogo,,0,0,0,,Oniyasha!
+Dialogue: 10,0:03:46.49,0:03:48.77,Diálogo,,0,0,0,,Estou falando com você, Jinen Koji.
+Dialogue: 10,0:03:48.77,0:03:50.36,Diálogo,,0,0,0,,O que você quer dizer com isso?
+Dialogue: 10,0:03:50.36,0:03:51.20,Diálogo,,0,0,0,,{\an8}Está muito bom!
+Dialogue: 10,0:03:51.52,0:03:53.04,Diálogo,,0,0,0,,Ei, vamos, jovem mestre.
+Dialogue: 10,0:03:54.31,0:03:57.05,Italic,,0,0,0,,Acabei fazendo de novo!
+Dialogue: 10,0:04:05.87,0:04:07.91,Diálogo,,0,0,0,,{\an8}E essa boneca, o que é?
+Dialogue: 10,0:04:09.00,0:04:11.02,Diálogo,,0,0,0,,{\an8}Devolve!
+Dialogue: 10,0:04:11.88,0:04:12.83,Diálogo,,0,0,0,,Desculpe.
+Dialogue: 10,0:04:12.83,0:04:15.15,Diálogo,,0,0,0,,Eu também não estava\N prestando atenção.
+Dialogue: 10,0:04:39.32,0:04:40.49,Diálogo,,0,0,0,,Uma tartaruga?
+Dialogue: 10,0:04:40.49,0:04:41.88,Diálogo,,0,0,0,,Sou Kamekichi.
+Dialogue: 10,0:04:41.88,0:04:45.76,Diálogo,,0,0,0,,Sinto muito, pai.
+Dialogue: 10,0:04:46.87,0:04:47.97,Diálogo,,0,0,0,,Pelo quê?
+Dialogue: 10,0:04:54.42,0:04:57.07,Diálogo,,0,0,0,,Jinen Koji é a principal atração da Trupe Kanze.
+Dialogue: 10,0:04:57.89,0:05:02.32,Diálogo,,0,0,0,,Se sua popularidade cair,\Nisso pode afetar todo o teatro sarugaku.
+Dialogue: 10,0:05:04.30,0:05:08.24,Diálogo,,0,0,0,,Peço perdão por ter parado\N a apresentação no meio.
+Dialogue: 10,0:05:11.70,0:05:14.70,Diálogo,,0,0,0,,Certo, que bom que entendeu.
+Dialogue: 10,0:05:15.49,0:05:16.58,Diálogo,,0,0,0,,Mas, no caso...
+Dialogue: 10,0:05:16.58,0:05:18.39,Diálogo,,0,0,0,,Hifumi. Toshigo.
+Dialogue: 10,0:05:18.87,0:05:19.46,Diálogo,,0,0,0,,Sim?
+Dialogue: 10,0:05:19.87,0:05:21.07,Diálogo,,0,0,0,,Afastem-se.
+Dialogue: 10,0:05:31.56,0:05:34.06,Diálogo,,0,0,0,,Gostei muito da apresentação de hoje.
+Dialogue: 10,0:05:34.58,0:05:36.04,Diálogo,,0,0,0,,Obrigado.
+Dialogue: 10,0:05:36.04,0:05:37.46,Diálogo,,0,0,0,,Volte sempre.
+Dialogue: 10,0:05:37.46,0:05:38.98,Diálogo,,0,0,0,,Kan-sama!
+Dialogue: 10,0:05:38.98,0:05:41.78,Diálogo,,0,0,0,,Ah, você veio de novo?
+Dialogue: 10,0:05:41.78,0:05:45.84,Diálogo,,0,0,0,,O dia em que o sarugaku \Nsuperará o dengaku está próximo!
+Dialogue: 10,0:05:45.84,0:05:48.11,Diálogo,,0,0,0,,Isso é graças a vocês!
+Dialogue: 10,0:05:48.43,0:05:50.66,Diálogo,,0,0,0,,Vamos, pegue.\N Divida com todo mundo.
+Dialogue: 10,0:05:51.06,0:05:52.58,Diálogo,,0,0,0,,Muito obrigado.
+Dialogue: 10,0:05:52.58,0:05:57.54,Diálogo,,0,0,0,,Nosso mestre realmente\N não conhece limites, não é?
+Dialogue: 10,0:05:57.54,0:06:01.30,Diálogo,,0,0,0,,E o nosso público continua aumentando.
+Dialogue: 10,0:06:01.78,0:06:06.86,Diálogo,,0,0,0,,Mestre, é verdade que recebemos um\N convite para nos apresentar na capital?
+Dialogue: 10,0:06:07.57,0:06:08.82,Diálogo,,0,0,0,,Sim, isso mesmo.
+Dialogue: 10,0:06:08.82,0:06:10.22,Diálogo,,0,0,0,,Que incrível.
+Dialogue: 10,0:06:10.67,0:06:14.04,Diálogo,,0,0,0,,É impressionante como ele fez a \Ntrupe crescer em apenas uma geração.
+Dialogue: 10,0:06:14.04,0:06:15.46,Diálogo,,0,0,0,,Mas infelizmente...
+Dialogue: 10,0:06:15.46,0:06:17.14,Diálogo,,0,0,0,,Oniyasha!
+Dialogue: 10,0:06:17.50,0:06:19.53,Diálogo,,0,0,0,,Você está bem?
+Dialogue: 10,0:06:20.29,0:06:21.75,Diálogo,,0,0,0,,Ishiya...
+Dialogue: 10,0:06:24.32,0:06:27.26,Diálogo,,0,0,0,,Ele brigou comigo de novo.
+Dialogue: 10,0:06:27.26,0:06:28.34,Diálogo,,0,0,0,,Não chore.
+Dialogue: 10,0:06:29.39,0:06:32.74,Diálogo,,0,0,0,,Ei, eu te ajudo a levar isso aqui.\N Você pode ficar esperando ali.
+Dialogue: 10,0:06:33.15,0:06:34.20,Diálogo,,0,0,0,,Pronto?
+Dialogue: 10,0:06:44.49,0:06:46.76,Diálogo,,0,0,0,,Esquece. Eu faço isso sozinho.
+Dialogue: 10,0:06:46.76,0:06:49.17,Diálogo,,0,0,0,,Seria bom ele parar de\N ficar chorando desse jeito.
+Dialogue: 10,0:06:49.17,0:06:53.08,Diálogo,,0,0,0,,Bom, pelo menos ele não\N faz isso na frente do pai.
+Dialogue: 10,0:06:53.08,0:06:58.85,Diálogo,,0,0,0,,Estamos tão perto de um novo \Nfuturo para o sarugaku, mas...
+Dialogue: 10,0:06:58.85,0:07:01.04,Diálogo,,0,0,0,,Oni-chan! Você consegue!
+Dialogue: 10,0:07:01.04,0:07:04.13,Diálogo,,0,0,0,,Quando terminar, eu te dou um dango!
+Dialogue: 10,0:07:02.19,0:07:04.68,Diálogo-Alt,,0,0,0,,Pelo menos ele tem um rostinho bonito.
+Dialogue: 10,0:07:04.68,0:07:06.05,Diálogo,,0,0,0,,Poxa...
+Dialogue: 10,0:07:06.05,0:07:09.13,Diálogo,,0,0,0,,Eu queria ser bonito assim também.
+Dialogue: 10,0:07:10.59,0:07:12.69,Diálogo,,0,0,0,,Você acabou de rir da minha cara?
+Dialogue: 10,0:07:12.69,0:07:14.58,Diálogo,,0,0,0,,E fez de novo!
+Dialogue: 10,0:07:22.91,0:07:24.50,Diálogo,,0,0,0,,A gente nunca vai terminar isso aqui.
+Dialogue: 10,0:07:24.86,0:07:28.45,Diálogo,,0,0,0,,Os yokais devem estar deixando\N isso bem mais pesado do que é.
+Dialogue: 10,0:07:28.45,0:07:30.49,Diálogo,,0,0,0,,Y-Yokais?!
+Dialogue: 10,0:07:30.49,0:07:35.11,Diálogo,,0,0,0,,Bom, eu realmente ouvi que tem muitos \Nespíritos malignos por estas bandas...
+Dialogue: 10,0:07:39.13,0:07:42.27,Diálogo,,0,0,0,,Ishiya, você pode voltar para casa.
+Dialogue: 10,0:07:42.92,0:07:46.78,Diálogo,,0,0,0,,Meu pai já tinha mandado\N eu fazer isso sozinho.
+Dialogue: 10,0:07:47.22,0:07:48.63,Diálogo,,0,0,0,,Jovem mestre...
+Dialogue: 10,0:07:49.14,0:07:50.57,Diálogo,,0,0,0,,Você tá tentando matar serviço, né?
+Dialogue: 10,0:07:51.43,0:07:56.23,Diálogo,,0,0,0,,Eu sei que você vai usar isso para fugir pra cidade.\N Pensou que eu não ia descobrir?
+Dialogue: 10,0:07:56.23,0:07:57.95,Diálogo,,0,0,0,,N-Não é pra cidade!
+Dialogue: 10,0:07:58.44,0:08:01.53,Diálogo,,0,0,0,,Eu só tinha ido ver o rio correndo...
+Dialogue: 10,0:08:01.53,0:08:03.20,Diálogo,,0,0,0,,e estava praticando, sabia?
+Dialogue: 10,0:08:03.20,0:08:06.96,Diálogo,,0,0,0,,Mas, tenho que te lembrar que você não\N pode sair sem a permissão do seu pai.
+Dialogue: 10,0:08:06.96,0:08:08.74,Diálogo,,0,0,0,,Mas...
+Dialogue: 10,0:08:08.74,0:08:11.24,Diálogo,,0,0,0,,É só por uns minutinhos!
+Dialogue: 10,0:08:11.24,0:08:16.97,Diálogo,,0,0,0,,Desde pequeno, tudo o que faço é ler,\Nescrever e treinar, ler, escrever e treinar!
+Dialogue: 10,0:08:17.29,0:08:20.66,Diálogo,,0,0,0,,Por que não posso ter\N um pouco de liberdade?
+Dialogue: 10,0:08:21.13,0:08:25.39,Diálogo,,0,0,0,,Espera, Ishiya... você só está me \Najudando para ficar de olho em mim?
+Dialogue: 10,0:08:27.09,0:08:28.78,Diálogo,,0,0,0,,Ordem do meu pai?
+Dialogue: 10,0:08:28.78,0:08:30.76,Diálogo,,0,0,0,,Bem...
+Dialogue: 10,0:08:30.76,0:08:32.84,Diálogo,,0,0,0,,Desculpe, jovem mestre!
+Dialogue: 10,0:08:32.84,0:08:34.19,Diálogo,,0,0,0,,Já chega.
+Dialogue: 10,0:08:34.80,0:08:38.20,Diálogo,,0,0,0,,Todo mundo só pensa no meu pai.
+Dialogue: 10,0:08:40.44,0:08:43.65,Diálogo,,0,0,0,,Meu pai só pensa na arte.
+Dialogue: 10,0:08:43.65,0:08:48.25,Diálogo,,0,0,0,,Ele não me vê como filho dele.
+Dialogue: 10,0:08:55.39,0:09:00.00,Diálogo,,0,0,0,,Meu pai não está ensinando\Na dança ao próprio filho.
+Dialogue: 10,0:09:02.18,0:09:06.25,Diálogo,,0,0,0,,Ele apenas está tentando\Ndescobrir se aquele diante dele
+Dialogue: 10,0:09:06.25,0:09:09.16,Diálogo,,0,0,0,,é ou não digno de compreender essa arte.
+Dialogue: 10,0:09:10.17,0:09:11.53,Diálogo-Alt 2,,0,0,0,,Endireite-se! {Camarão}
+Dialogue: 10,0:09:27.24,0:09:29.66,Diálogo-Alt 2,,0,0,0,,Você não tem a postura de um dançarino.
+Dialogue: 10,0:09:29.66,0:09:33.01,Diálogo-Alt 2,,0,0,0,,Por isso, a beleza da sua dança não se revela.
+Dialogue: 10,0:10:03.29,0:10:05.83,Diálogo-Alt 2,,0,0,0,,Eu odeio dança.
+Dialogue: 10,0:10:21.21,0:10:24.54,Diálogo-Alt 2,,0,0,0,,Eu odeio o papai!
+Dialogue: 10,0:10:26.39,0:10:30.76,Diálogo,,0,0,0,,Eu não consigo entender\N como meu pai pensa.
+Dialogue: 10,0:10:30.76,0:10:32.59,Diálogo,,0,0,0,,Sério?
+Dialogue: 10,0:10:32.59,0:10:34.57,Diálogo,,0,0,0,,Você entende ele?
+Dialogue: 10,0:10:34.93,0:10:36.34,Diálogo,,0,0,0,,Quer dizer...
+Dialogue: 10,0:10:36.34,0:10:41.93,Diálogo,,0,0,0,,Eu tenho uma ideia, mas ela é vaga,\N imprecisa e bem confusa...
+Dialogue: 10,0:10:42.58,0:10:43.58,Diálogo,,0,0,0,,Já sei!
+Dialogue: 10,0:10:43.98,0:10:47.62,Diálogo,,0,0,0,,Quando o líder dança,\No mundo se transforma, não é?
+Dialogue: 10,0:10:48.11,0:10:50.97,Diálogo,,0,0,0,,O mundo se transforma?
+Dialogue: 10,0:10:51.56,0:10:54.80,Diálogo,,0,0,0,,O mundo se... transforma?
+Dialogue: 10,0:10:55.32,0:10:57.45,Diálogo,,0,0,0,,É difícil de entender, não é?
+Dialogue: 10,0:10:57.45,0:10:59.21,Diálogo,,0,0,0,,Desculpa.
+Dialogue: 10,0:11:00.16,0:11:03.22,Diálogo,,0,0,0,,Com a minha perna ruim,\Neu não consigo viajar muito longe,
+Dialogue: 10,0:11:03.22,0:11:07.10,Diálogo,,0,0,0,,muito menos dançar.
+Dialogue: 10,0:11:07.46,0:11:09.85,Diálogo,,0,0,0,,Mas, por algum motivo,
+Dialogue: 10,0:11:10.13,0:11:12.55,Diálogo,,0,0,0,,quando eu vejo nosso líder dançar,
+Dialogue: 10,0:11:12.55,0:11:14.73,Diálogo,,0,0,0,,sinto que posso ir a qualquer lugar.
+Dialogue: 10,0:11:15.47,0:11:18.95,Diálogo,,0,0,0,,Esse é o poder da dança dele.
+Dialogue: 10,0:11:21.28,0:11:23.66,Diálogo,,0,0,0,,Eu não entendo.
+Dialogue: 10,0:11:23.66,0:11:28.02,Diálogo,,0,0,0,,Enfim!\N Só não saia por aí sem mim!
+Dialogue: 10,0:11:28.02,0:11:29.25,Diálogo,,0,0,0,,Entendeu?
+Dialogue: 10,0:11:31.15,0:11:32.60,Diálogo,,0,0,0,,Entendi.
+Dialogue: 10,0:11:33.20,0:11:34.82,Diálogo,,0,0,0,,Ótimo!
+Dialogue: 10,0:11:36.62,0:11:38.01,Diálogo,,0,0,0,,Oniyasha-sama?
+Dialogue: 10,0:11:38.32,0:11:41.46,Diálogo,,0,0,0,,Jovem mestre, onde você está?
+Dialogue: 10,0:11:41.46,0:11:42.60,Diálogo,,0,0,0,,Jovem mestre?
+Dialogue: 10,0:11:42.88,0:11:43.81,Diálogo,,0,0,0,,Jovem mestre?
+Dialogue: 10,0:11:44.17,0:11:46.42,Diálogo,,0,0,0,,Oniyasha-sama?
+Dialogue: 10,0:11:46.42,0:11:47.81,Diálogo,,0,0,0,,Jovem mestre?
+Dialogue: 10,0:11:48.08,0:11:50.22,Diálogo,,0,0,0,,Onde você está?
+Dialogue: 10,0:11:51.08,0:11:52.93,Diálogo,,0,0,0,,Oniyasha-sama!
+Dialogue: 10,0:11:51.71,0:11:52.93,Diálogo-Alt,,0,0,0,,De novo?
+Dialogue: 10,0:11:58.40,0:12:01.63,Diálogo,,0,0,0,,Jovem mestre! Por favor, apareça!
+Dialogue: 10,0:12:02.34,0:12:04.55,Diálogo,,0,0,0,,Por favor, Jovem mestre!
+Dialogue: 10,0:12:03.22,0:12:04.55,Diálogo-Alt,,0,0,0,,Me perdoe, Ishiya.
+Dialogue: 10,0:12:04.55,0:12:06.59,Diálogo,,0,0,0,,Onde você está?!
+Dialogue: 10,0:12:54.87,0:12:56.56,Diálogo,,0,0,0,,Kogane-dono!
+Dialogue: 10,0:12:57.17,0:12:59.95,Diálogo,,0,0,0,,Seu pai te deixou para baixo de novo?
+Dialogue: 10,0:12:59.95,0:13:02.41,Diálogo,,0,0,0,,Você também deve estar\Nse sentindo para baixo.
+Dialogue: 10,0:13:02.41,0:13:05.09,Diálogo,,0,0,0,,Outra briga com seu amigo?
+Dialogue: 10,0:13:05.09,0:13:08.63,Diálogo,,0,0,0,,Eu não sou amigo de um cara desses!
+Dialogue: 10,0:13:08.63,0:13:11.93,Diálogo,,0,0,0,,Não há vida nos olhos dele.\NEle é como um demônio.
+Dialogue: 10,0:13:11.93,0:13:14.35,Diálogo,,0,0,0,,Meu pai também é um demônio!
+Dialogue: 10,0:13:14.79,0:13:18.79,Diálogo,,0,0,0,,Então, seu nome é Oniyasha\Nporque você é filho de um oni?
+Dialogue: 10,0:13:19.43,0:13:21.21,Diálogo,,0,0,0,,Não é por isso!
+Dialogue: 10,0:13:22.22,0:13:25.48,Diálogo,,0,0,0,,Não tenho te visto recentemente.\NComo você tem passado?
+Dialogue: 10,0:13:25.48,0:13:26.84,Diálogo,,0,0,0,,E você?
+Dialogue: 10,0:13:26.84,0:13:29.49,Diálogo,,0,0,0,,Como está o seu irmão que\Nnasceu de uma cabaça?
+Dialogue: 10,0:13:29.49,0:13:31.81,Diálogo,,0,0,0,,Hã? Eu cheguei a dizer isso?
+Dialogue: 10,0:13:31.81,0:13:33.00,Diálogo,,0,0,0,,Você disse!
+Dialogue: 10,0:13:33.00,0:13:35.65,Diálogo,,0,0,0,,Antes disso, você disse\Nque veio de além-mar.
+Dialogue: 10,0:13:35.65,0:13:38.61,Diálogo,,0,0,0,,E antes disso, você encontrou um coelho falante.
+Dialogue: 10,0:13:39.70,0:13:43.42,Diálogo,,0,0,0,,E você disse que morava\Ncom um yokai pinheiro.
+Dialogue: 10,0:13:43.42,0:13:46.34,Diálogo,,0,0,0,,que ia te devorar em breve.
+Dialogue: 10,0:13:46.34,0:13:48.49,Diálogo,,0,0,0,,Eu disse isso?
+Dialogue: 10,0:13:48.49,0:13:51.18,Diálogo,,0,0,0,,Estamos sempre falando bobagem, não é?
+Dialogue: 10,0:13:51.18,0:13:55.08,Diálogo,,0,0,0,,Eu só faço isso porque você faz!
+Dialogue: 10,0:13:55.08,0:13:59.32,Diálogo,,0,0,0,,Mas as suas histórias\Nabsurdas não são tão ruins!
+Dialogue: 10,0:13:59.89,0:14:01.11,Diálogo,,0,0,0,,Sério?
+Dialogue: 10,0:14:01.11,0:14:02.92,Diálogo,,0,0,0,,Sim, é sério!
+Dialogue: 10,0:14:06.43,0:14:08.45,Diálogo,,0,0,0,,Você tem pernas fortes.
+Dialogue: 10,0:14:09.06,0:14:10.33,Diálogo,,0,0,0,,Kogane-dono...
+Dialogue: 10,0:14:11.52,0:14:12.79,Diálogo,,0,0,0,,Você está com uma cara engraçada!
+Dialogue: 10,0:14:16.08,0:14:17.95,Diálogo,,0,0,0,,Me pegue se puder!
+Dialogue: 10,0:14:17.95,0:14:19.66,Diálogo,,0,0,0,,Espera aí!
+Dialogue: 10,0:14:41.97,0:14:43.92,Diálogo,,0,0,0,,O que é essa gritaria?
+Dialogue: 10,0:14:44.59,0:14:47.04,Diálogo,,0,0,0,,O festival foi cancelado.
+Dialogue: 10,0:14:47.51,0:14:49.90,Diálogo,,0,0,0,,A colheita foi ruim este ano.
+Dialogue: 10,0:14:50.43,0:14:53.12,Diálogo,,0,0,0,,Deve ser uma multidão vibrante dançando.
+Dialogue: 10,0:14:53.12,0:14:56.04,Diálogo,,0,0,0,,Uma multidão agitada... dançando?
+Dialogue: 10,0:14:56.44,0:14:59.77,Diálogo,,0,0,0,,Mesmo que as grandes guerras tenham\Nacabado, não há nada para comer.
+Dialogue: 10,0:14:59.77,0:15:01.94,Diálogo,,0,0,0,,As pessoas morrem tão facilmente.
+Dialogue: 10,0:15:01.94,0:15:04.62,Diálogo,,0,0,0,,Alguns roubam para viver,
+Dialogue: 10,0:15:04.62,0:15:07.01,Diálogo,,0,0,0,,enquanto algumas mulheres \Nvendem seus corpos.
+Dialogue: 10,0:15:08.24,0:15:10.51,Diálogo,,0,0,0,,Todos eles estão fartos deste mundo.
+Dialogue: 10,0:15:10.87,0:15:13.25,Diálogo,,0,0,0,,Dançar ajuda a extravasar tudo.
+Dialogue: 10,0:15:13.25,0:15:16.87,Diálogo,,0,0,0,,Mas, que significado há nisso?
+Dialogue: 10,0:15:17.71,0:15:21.11,Diálogo,,0,0,0,,Quer eles dancem ou não,\Nas pessoas morrem.
+Dialogue: 10,0:15:22.55,0:15:25.94,Diálogo,,0,0,0,,A dança não pode mudar o mundo.
+Dialogue: 10,0:15:30.09,0:15:32.00,Diálogo,,0,0,0,,Eu deveria ir para casa.
+Dialogue: 10,0:15:32.48,0:15:33.45,Diálogo,,0,0,0,,Tudo bem.
+Dialogue: 10,0:15:35.30,0:15:39.26,Italic,,0,0,0,,O corpo humano não foi feito para dançar.
+Dialogue: 10,0:15:39.26,0:15:44.45,Italic,,0,0,0,,Se eles tiverem comida e abrigo,\Nas pessoas podem viver sem dança.
+Dialogue: 10,0:15:45.33,0:15:50.38,Italic,,0,0,0,,{\an8}Então, por que as pessoas\Nassistem e dançam?
+Dialogue: 10,0:15:51.57,0:15:53.17,Italic,,0,0,0,,Por quê?
+Dialogue: 10,0:16:00.42,0:16:02.47,Diálogo,,0,0,0,,Eu me perdi.
+Dialogue: 10,0:16:17.45,0:16:22.25,Diálogo,,0,0,0,,Opa, desculpe interromper, mas eu me perdi.
+Dialogue: 10,0:16:25.56,0:16:26.88,Diálogo,,0,0,0,,Por ali.
+Dialogue: 10,0:16:27.87,0:16:29.57,Diálogo,,0,0,0,,Muito obrigado.
+Dialogue: 10,0:16:36.71,0:16:39.93,Diálogo,,0,0,0,,{\an8}Por que nascemos?
+Dialogue: 10,0:16:39.13,0:16:39.93,Italic,,0,0,0,,Uma canção?
+Dialogue: 10,0:16:39.93,0:16:45.52,Diálogo,,0,0,0,,{\an8}Para se divertir e brincar?
+Dialogue: 10,0:16:45.92,0:16:51.44,Diálogo,,0,0,0,,{\an8}Por que nascemos?
+Dialogue: 10,0:16:45.92,0:16:47.75,Italic,,0,0,0,,Uma shirabyoshi?
+Dialogue: 10,0:16:51.44,0:16:57.03,Diálogo,,0,0,0,,{\an8}Para se deleitar em alegria?
+Dialogue: 10,0:16:57.03,0:17:08.89,Diálogo,,0,0,0,,{\an8}Quando ouço as vozes de crianças brincando,
+Dialogue: 10,0:16:57.03,0:16:59.07,Italic,,0,0,0,,Que voz terrível...
+Dialogue: 10,0:16:59.78,0:17:01.45,Italic,,0,0,0,,Mas...
+Dialogue: 10,0:17:09.94,0:17:22.36,Diálogo,,0,0,0,,{\an8}Meu corpo começa a balançar sozinho.
+Dialogue: 10,0:18:05.14,0:18:08.25,Diálogo,,0,0,0,,{\an8}Dance, dance, caracol.
+Dialogue: 10,0:18:08.25,0:18:12.98,Diálogo,,0,0,0,,{\an8}Caracol, se não dançar, então as vacas e os cavalos vão chutar você.
+Dialogue: 10,0:18:33.37,0:18:34.84,Italic,,0,0,0,,É "bom".
+Dialogue: 10,0:19:06.56,0:19:08.79,Diálogo,,0,0,0,,Me desculpa!
+Dialogue: 10,0:19:19.28,0:19:20.70,Italic,,0,0,0,,Aquilo...
+Dialogue: 10,0:19:20.70,0:19:21.80,Italic,,0,0,0,,Aquilo foi "bom"?
+Dialogue: 10,0:19:22.92,0:19:24.72,Italic,,0,0,0,,Eu não entendo.
+Dialogue: 10,0:19:24.72,0:19:28.08,Italic,,0,0,0,,O que eu achei de bom nisso?
+Dialogue: 10,0:19:28.64,0:19:29.97,Italic,,0,0,0,,Eu não entendi nada.
+Dialogue: 10,0:19:30.58,0:19:34.54,Italic,,0,0,0,,Mas se eu pudesse possuir aquele "bom"...
+Dialogue: 10,0:19:35.93,0:19:38.96,Italic,,0,0,0,,Se esse dia já tiver chegado para mim...
+Dialogue: 10,0:20:00.64,0:20:04.75,Diálogo-Alt,,0,0,0,,{\i1}Oniyasha, onze anos.
+Dialogue: 10,0:20:05.51,0:20:09.46,Diálogo-Alt,,0,0,0,,{\i1}Mais tarde, ele se tornaria o ator de Noh Zeami.
+Dialogue: 10,0:20:10.39,0:20:15.07,Diálogo-Alt,,0,0,0,,{\i1}Ele ainda não sabe que está a\Ncaminho de um mundo em expansão,
+Dialogue: 10,0:20:15.07,0:20:18.88,Diálogo-Alt,,0,0,0,,{\i1}mais vasto do que os rios, os oceanos,
+Dialogue: 10,0:20:20.48,0:20:23.37,Diálogo-Alt,,0,0,0,,{\i1}e até mesmo o céu.
+Dialogue: 0,0:00:04.86,0:00:07.86,Typesetting [Junnin],,0,0,0,,{\c&HFBFDFB&\fad(600,0)\bord3\blur0.7\fnA-OTF Reisho 101 Std Medium Strp\pos(960,100)\q2}1374 - Quioto, Corte do Norte
+Dialogue: 1,0:00:04.86,0:00:07.86,Typesetting [Junnin],,0,0,0,,{\fad(600,0)\blur1\fnA-OTF Reisho 101 Std Medium Strp\pos(960,100)\c&HFBFDFB&\q2}1374 - Quioto, Corte do Norte
+Dialogue: 0,0:01:19.22,0:01:26.23,Typesetting [Junnin],,0,0,0,,{\c&H000008&\fad(0,1000)\fs85\bord6\blur0.7\fnA-OTF Reisho 101 Std Medium Strp\pos(960,790)\q2}"Jinen Kouji"
+Dialogue: 1,0:01:19.22,0:01:26.23,Typesetting [Junnin],,0,0,0,,{\fad(0,1000)\fs85\blur1\fnA-OTF Reisho 101 Std Medium Strp\pos(960,790)\q2}"Jinen Kouji"
+Dialogue: 1,0:06:22.53,0:06:22.57,Typesetting [Junnin],,0,0,0,,{\blur0.6\xshad-0.6\bord4\fnBadonk-a-donk\fs60\c&H3027FA&\3c&H2F25F6&\b0\4c&H0E0B9A&\pos(1262,598.44)\q2}GAAH
+Dialogue: 1,0:06:22.57,0:06:22.61,Typesetting [Junnin],,0,0,0,,{\fscx135\fscy135\blur0.6\xshad-0.6\bord5\fnBadonk-a-donk\fs60\c&H3027FA&\3c&H2F25F6&\b0\4c&H0E0B9A&\pos(1282.26,678.73)\q2}GAAH
+Dialogue: 1,0:06:22.61,0:06:22.65,Typesetting [Junnin],,0,0,0,,{\fscx215\fscy215\blur0.6\xshad-0.6\bord7\fnBadonk-a-donk\fs60\c&H3027FA&\3c&H2F25F6&\b0\4c&H0E0B9A&\pos(1322.91,822.88)\q2}GAAH
+Dialogue: 1,0:06:22.65,0:06:22.69,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx350\fscy350\blur0.6\xshad-0.6\bord14\fnBadonk-a-donk\fs60\3c&H2F25F6&\c&H3027FA&\b0\4c&H0E0B9A&\pos(1394.28,1122.1)\q2}GAAH
+Dialogue: 1,0:06:22.69,0:06:22.73,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx341.05\fscy341.05\blur0.58\xshad-0.58\bord13.64\fnBadonk-a-donk\fs60\3c&H2F25F6&\c&H3027FA&\b0\4c&H0E0B9A&\pos(1387.6,1064.27)\q2}GAAH
+Dialogue: 1,0:06:22.73,0:06:22.77,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx320.9\fscy320.9\blur0.55\xshad-0.55\bord12.84\fnBadonk-a-donk\fs60\3c&H2F25F6&\c&H3027FA&\b0\4c&H0E0B9A&\pos(1377.32,1024.32)\q2}GAAH
+Dialogue: 1,0:06:22.77,0:06:22.82,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx309.75\fscy309.75\blur0.53\xshad-0.53\bord12.39\fnBadonk-a-donk\fs60\3c&H2F25F6&\c&H3027FA&\b0\4c&H0E0B9A&\pos(1371.64,1002.24)\q2}GAAH
+Dialogue: 1,0:06:22.82,0:06:22.86,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx302.81\fscy302.81\blur0.52\xshad-0.52\bord12.11\fnBadonk-a-donk\fs60\3c&H2F25F6&\c&H3027FA&\b0\4c&H0E0B9A&\pos(1368.1,988.54)\q2}GAAH
+Dialogue: 1,0:06:22.86,0:06:22.90,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx298.59\fscy298.59\blur0.51\xshad-0.51\bord11.94\fnBadonk-a-donk\fs60\3c&H2F25F6&\c&H3027FA&\b0\4c&H0E0B9A&\pos(1365.94,980.19)\q2}GAAH
+Dialogue: 1,0:06:22.90,0:06:22.94,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx296.22\fscy296.22\blur0.51\xshad-0.51\bord11.85\fnBadonk-a-donk\fs60\3c&H2F25F6&\c&H3027FA&\b0\4c&H0E0B9A&\pos(1364.76,975.46)\q2}GAAH
+Dialogue: 1,0:06:22.94,0:06:22.98,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx294.9\fscy294.9\blur0.51\xshad-0.51\bord11.8\fnBadonk-a-donk\fs60\3c&H2F25F6&\c&H3027FA&\b0\4c&H0E0B9A&\pos(1364.09,972.82)\q2}GAAH
+Dialogue: 1,0:06:22.98,0:06:24.32,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx294.51\fscy294.51\blur0.5\xshad-0.5\bord11.78\fnBadonk-a-donk\fs60\3c&H2F25F6&\c&H3027FA&\b0\4c&H0E0B9A&\pos(1363.91,972.04)\q2}GAAH
+Dialogue: 1,0:06:22.53,0:06:22.57,Typesetting [Junnin],,0,0,0,,{\blur0.6\fnBadonk-a-donk\fs60\c&HA7A8FE&\3c&H3027FA&\b0\pos(1262,598.44)\4c&H0E0B9A&\q2}GAAH
+Dialogue: 1,0:06:22.57,0:06:22.61,Typesetting [Junnin],,0,0,0,,{\fscx135\fscy135\blur0.6\fnBadonk-a-donk\fs60\c&HA7A8FE&\3c&H3027FA&\b0\pos(1282.26,678.73)\4c&H0E0B9A&\q2}GAAH
+Dialogue: 1,0:06:22.61,0:06:22.65,Typesetting [Junnin],,0,0,0,,{\fscx215\fscy215\blur0.6\fnBadonk-a-donk\fs60\c&HA7A8FE&\3c&H3027FA&\b0\pos(1322.91,822.88)\4c&H0E0B9A&\q2}GAAH
+Dialogue: 1,0:06:22.65,0:06:22.69,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx350\fscy350\blur0.6\fnBadonk-a-donk\fs60\c&HA7A8FE&\3c&H3027FA&\b0\pos(1394.28,1122.1)\4c&H0E0B9A&\q2}GAAH
+Dialogue: 1,0:06:22.69,0:06:22.73,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx341.05\fscy341.05\blur0.58\fnBadonk-a-donk\fs60\c&HA7A8FE&\3c&H3027FA&\b0\pos(1387.6,1064.27)\4c&H0E0B9A&\q2}GAAH
+Dialogue: 1,0:06:22.73,0:06:22.77,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx320.9\fscy320.9\blur0.55\fnBadonk-a-donk\fs60\c&HA7A8FE&\3c&H3027FA&\b0\pos(1377.32,1024.32)\4c&H0E0B9A&\q2}GAAH
+Dialogue: 1,0:06:22.77,0:06:22.82,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx309.75\fscy309.75\blur0.53\fnBadonk-a-donk\fs60\c&HA7A8FE&\3c&H3027FA&\b0\pos(1371.64,1002.24)\4c&H0E0B9A&\q2}GAAH
+Dialogue: 1,0:06:22.82,0:06:22.86,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx302.81\fscy302.81\blur0.52\fnBadonk-a-donk\fs60\c&HA7A8FE&\3c&H3027FA&\b0\pos(1368.1,988.54)\4c&H0E0B9A&\q2}GAAH
+Dialogue: 1,0:06:22.86,0:06:22.90,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx298.59\fscy298.59\blur0.51\fnBadonk-a-donk\fs60\c&HA7A8FE&\3c&H3027FA&\b0\pos(1365.94,980.19)\4c&H0E0B9A&\q2}GAAH
+Dialogue: 1,0:06:22.90,0:06:22.94,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx296.22\fscy296.22\blur0.51\fnBadonk-a-donk\fs60\c&HA7A8FE&\3c&H3027FA&\b0\pos(1364.76,975.46)\4c&H0E0B9A&\q2}GAAH
+Dialogue: 1,0:06:22.94,0:06:22.98,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx294.9\fscy294.9\blur0.51\fnBadonk-a-donk\fs60\c&HA7A8FE&\3c&H3027FA&\b0\pos(1364.09,972.82)\4c&H0E0B9A&\q2}GAAH
+Dialogue: 1,0:06:22.98,0:06:24.32,Typesetting [Junnin],,0,0,0,,{\alpha&H00&\fscx294.51\fscy294.51\blur0.5\fnBadonk-a-donk\fs60\c&HA7A8FE&\3c&H3027FA&\b0\pos(1363.91,972.04)\4c&H0E0B9A&\q2}GAAH
+Dialogue: 0,0:11:36.01,0:11:38.01,Typesetting [Junnin],,0,0,0,,{\blur0.3\fs50\c&H0F1011&\fnPinzelan\fry4.85\frx-1.92\frz-10.26\fax-0.08\b0\pos(1027.08,549.26)\q2}KANZE
+Dialogue: 0,0:13:38.59,0:13:39.67,Typesetting [Junnin],,0,0,0,,{\fad(300,800)\fscx100\fscy100\q2\t(\fscx150\fscy150)\bord5\blur0.7\fnChinacat\fs78\c&H695CE5&\3c&H695CE5&\b0\move(570.58,374.24,466.8,374.24,19,1062)}E aí!
+Dialogue: 1,0:13:38.59,0:13:39.67,Typesetting [Junnin],,0,0,0,,{\fad(300,800)\fscx100\fscy100\q2\t(\fscx150\fscy150)\blur0.7\fnChinacat\fs78\c&HAFA6EB&\3c&H695CE5&\b0\move(570.58,374.24,466.8,374.24,19,1062)}E aí!
+Dialogue: 0,0:13:43.42,0:13:43.46,Typesetting [Junnin],,0,0,0,,{\fscx100\fscy100\alpha&H00&\an4\blur0.7\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1270.72,330.72)\q2}GAAH
+Dialogue: 0,0:13:43.46,0:13:43.51,Typesetting [Junnin],,0,0,0,,{\fscx104.34\fscy104.34\alpha&H00&\an4\blur0.73\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1283.81,326.3)\q2}GAAH
+Dialogue: 0,0:13:43.51,0:13:43.55,Typesetting [Junnin],,0,0,0,,{\fscx108.14\fscy108.14\alpha&H00&\an4\blur0.76\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1295.4,322.46)\q2}GAAH
+Dialogue: 0,0:13:43.55,0:13:43.59,Typesetting [Junnin],,0,0,0,,{\fscx111.78\fscy111.78\alpha&H00&\an4\blur0.78\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1306.01,318.73)\q2}GAAH
+Dialogue: 0,0:13:43.59,0:13:43.63,Typesetting [Junnin],,0,0,0,,{\fscx115.1\fscy115.1\alpha&H00&\an4\blur0.81\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1315.94,315.4)\q2}GAAH
+Dialogue: 0,0:13:43.63,0:13:43.67,Typesetting [Junnin],,0,0,0,,{\fscx118.16\fscy118.16\alpha&H00&\an4\blur0.83\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1325.19,312.32)\q2}GAAH
+Dialogue: 0,0:13:43.67,0:13:43.71,Typesetting [Junnin],,0,0,0,,{\fscx121.09\fscy121.09\alpha&H00&\an4\blur0.85\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1333.81,309.29)\q2}GAAH
+Dialogue: 0,0:13:43.71,0:13:43.76,Typesetting [Junnin],,0,0,0,,{\fscx123.83\fscy123.83\alpha&H00&\an4\blur0.87\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1341.77,306.47)\q2}GAAH
+Dialogue: 0,0:13:43.76,0:13:43.80,Typesetting [Junnin],,0,0,0,,{\fscx126.31\fscy126.31\alpha&H00&\an4\blur0.88\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1349.14,303.93)\q2}GAAH
+Dialogue: 0,0:13:43.80,0:13:43.84,Typesetting [Junnin],,0,0,0,,{\fscx128.46\fscy128.46\alpha&H00&\an4\blur0.9\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1355.89,301.87)\q2}GAAH
+Dialogue: 0,0:13:43.84,0:13:43.88,Typesetting [Junnin],,0,0,0,,{\fscx130.41\fscy130.41\alpha&H00&\an4\blur0.91\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1362.01,299.94)\q2}GAAH
+Dialogue: 0,0:13:43.88,0:13:43.92,Typesetting [Junnin],,0,0,0,,{\fscx132.34\fscy132.34\alpha&H00&\an4\blur0.93\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1367.45,297.9)\q2}GAAH
+Dialogue: 0,0:13:43.92,0:13:43.96,Typesetting [Junnin],,0,0,0,,{\fscx133.86\fscy133.86\alpha&H00&\an4\blur0.94\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1372.29,296.4)\q2}GAAH
+Dialogue: 0,0:13:43.96,0:13:44.01,Typesetting [Junnin],,0,0,0,,{\fscx135.22\fscy135.22\alpha&H00&\an4\blur0.95\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1376.46,295.09)\q2}GAAH
+Dialogue: 0,0:13:44.01,0:13:44.05,Typesetting [Junnin],,0,0,0,,{\fscx136.3\fscy136.3\alpha&H00&\an4\blur0.95\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1380.04,294.02)\q2}GAAH
+Dialogue: 0,0:13:44.05,0:13:44.09,Typesetting [Junnin],,0,0,0,,{\fscx137.4\fscy137.4\alpha&H00&\an4\blur0.96\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1382.87,292.85)\q2}GAAH
+Dialogue: 0,0:13:44.09,0:13:44.13,Typesetting [Junnin],,0,0,0,,{\fscx138.08\fscy138.08\alpha&H00&\an4\blur0.97\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1385.13,292.23)\q2}GAAH
+Dialogue: 0,0:13:44.13,0:13:44.17,Typesetting [Junnin],,0,0,0,,{\fscx138.75\fscy138.75\alpha&H00&\an4\blur0.97\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1386.7,291.56)\q2}GAAH
+Dialogue: 0,0:13:44.17,0:13:44.21,Typesetting [Junnin],,0,0,0,,{\fscx138.95\fscy138.95\alpha&H00&\an4\blur0.97\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1387.8,291.38)\q2}GAAH
+Dialogue: 0,0:13:44.21,0:13:44.26,Typesetting [Junnin],,0,0,0,,{\fscx139.18\fscy139.18\alpha&H00&\an4\blur0.97\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1388.58,291.26)\q2}GAAH
+Dialogue: 0,0:13:44.26,0:13:44.30,Typesetting [Junnin],,0,0,0,,{\fscx139.4\fscy139.4\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1389.14,291.11)\q2}GAAH
+Dialogue: 0,0:13:44.30,0:13:44.34,Typesetting [Junnin],,0,0,0,,{\fscx139.5\fscy139.5\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1389.69,291.08)\q2}GAAH
+Dialogue: 0,0:13:44.34,0:13:44.38,Typesetting [Junnin],,0,0,0,,{\fscx139.63\fscy139.63\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1390.09,291)\q2}GAAH
+Dialogue: 0,0:13:44.38,0:13:44.42,Typesetting [Junnin],,0,0,0,,{\fscx139.75\fscy139.75\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1390.47,290.92)\q2}GAAH
+Dialogue: 0,0:13:44.42,0:13:44.47,Typesetting [Junnin],,0,0,0,,{\fscx139.72\fscy139.72\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1390.81,291.11)\q2}GAAH
+Dialogue: 0,0:13:44.47,0:13:44.51,Typesetting [Junnin],,0,0,0,,{\fscx139.86\fscy139.86\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1391.09,290.98)\q2}GAAH
+Dialogue: 0,0:13:44.51,0:13:44.55,Typesetting [Junnin],,0,0,0,,{\fscx139.89\fscy139.89\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1391.38,291)\q2}GAAH
+Dialogue: 0,0:13:44.55,0:13:44.59,Typesetting [Junnin],,0,0,0,,{\fscx139.9\fscy139.9\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1391.67,291.05)\q2}GAAH
+Dialogue: 0,0:13:44.59,0:13:44.63,Typesetting [Junnin],,0,0,0,,{\fscx139.96\fscy139.96\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1391.88,291.03)\q2}GAAH
+Dialogue: 0,0:13:44.63,0:13:44.67,Typesetting [Junnin],,0,0,0,,{\fscx140.12\fscy140.12\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1392.06,290.88)\q2}GAAH
+Dialogue: 0,0:13:44.67,0:13:44.72,Typesetting [Junnin],,0,0,0,,{\fscx140.1\fscy140.1\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1392.3,290.96)\q2}GAAH
+Dialogue: 0,0:13:44.72,0:13:44.76,Typesetting [Junnin],,0,0,0,,{\fscx140.18\fscy140.18\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1392.45,290.89)\q2}GAAH
+Dialogue: 0,0:13:44.76,0:13:44.80,Typesetting [Junnin],,0,0,0,,{\fscx140.22\fscy140.22\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1392.64,290.89)\q2}GAAH
+Dialogue: 0,0:13:44.80,0:13:44.84,Typesetting [Junnin],,0,0,0,,{\fscx140.25\fscy140.25\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1392.81,290.89)\q2}GAAH
+Dialogue: 0,0:13:44.84,0:13:44.88,Typesetting [Junnin],,0,0,0,,{\fscx140.33\fscy140.33\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1392.92,290.83)\q2}GAAH
+Dialogue: 0,0:13:44.88,0:13:44.92,Typesetting [Junnin],,0,0,0,,{\fscx140.37\fscy140.37\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1393.07,290.81)\q2}GAAH
+Dialogue: 0,0:13:44.92,0:13:44.97,Typesetting [Junnin],,0,0,0,,{\fscx140.41\fscy140.41\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1393.2,290.81)\q2}GAAH
+Dialogue: 0,0:13:44.97,0:13:45.01,Typesetting [Junnin],,0,0,0,,{\fscx140.44\fscy140.44\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1393.31,290.8)\q2}GAAH
+Dialogue: 0,0:13:45.01,0:13:45.05,Typesetting [Junnin],,0,0,0,,{\fscx140.45\fscy140.45\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1393.47,290.8)\q2}GAAH
+Dialogue: 0,0:13:45.05,0:13:45.09,Typesetting [Junnin],,0,0,0,,{\fscx140.49\fscy140.49\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1393.58,290.76)\q2}GAAH
+Dialogue: 0,0:13:45.09,0:13:45.13,Typesetting [Junnin],,0,0,0,,{\fscx140.53\fscy140.53\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1393.67,290.74)\q2}GAAH
+Dialogue: 0,0:13:45.13,0:13:45.17,Typesetting [Junnin],,0,0,0,,{\fscx140.54\fscy140.54\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1393.76,290.74)\q2}GAAH
+Dialogue: 0,0:13:45.17,0:13:45.22,Typesetting [Junnin],,0,0,0,,{\fscx140.52\fscy140.52\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1393.87,290.8)\q2}GAAH
+Dialogue: 0,0:13:45.22,0:13:45.26,Typesetting [Junnin],,0,0,0,,{\fscx140.56\fscy140.56\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1393.94,290.76)\q2}GAAH
+Dialogue: 0,0:13:45.26,0:13:45.30,Typesetting [Junnin],,0,0,0,,{\fscx140.61\fscy140.61\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.01,290.71)\q2}GAAH
+Dialogue: 0,0:13:45.30,0:13:45.34,Typesetting [Junnin],,0,0,0,,{\fscx140.59\fscy140.59\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.12,290.77)\q2}GAAH
+Dialogue: 0,0:13:45.34,0:13:45.38,Typesetting [Junnin],,0,0,0,,{\fscx140.63\fscy140.63\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.18,290.72)\q2}GAAH
+Dialogue: 0,0:13:45.38,0:13:45.42,Typesetting [Junnin],,0,0,0,,{\fscx140.62\fscy140.62\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.27,290.75)\q2}GAAH
+Dialogue: 0,0:13:45.42,0:13:45.47,Typesetting [Junnin],,0,0,0,,{\fscx140.58\fscy140.58\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.35,290.83)\q2}GAAH
+Dialogue: 0,0:13:45.47,0:13:45.51,Typesetting [Junnin],,0,0,0,,{\fscx140.65\fscy140.65\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.38,290.76)\q2}GAAH
+Dialogue: 0,0:13:45.51,0:13:45.55,Typesetting [Junnin],,0,0,0,,{\fscx140.62\fscy140.62\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.47,290.79)\q2}GAAH
+Dialogue: 0,0:13:45.55,0:13:45.59,Typesetting [Junnin],,0,0,0,,{\fscx140.66\fscy140.66\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.52,290.76)\q2}GAAH
+Dialogue: 0,0:13:45.59,0:13:45.63,Typesetting [Junnin],,0,0,0,,{\fscx140.66\fscy140.66\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.57,290.77)\q2}GAAH
+Dialogue: 0,0:13:45.63,0:13:45.67,Typesetting [Junnin],,0,0,0,,{\fscx140.7\fscy140.7\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.59,290.73)\q2}GAAH
+Dialogue: 0,0:13:45.67,0:13:45.72,Typesetting [Junnin],,0,0,0,,{\fscx140.65\fscy140.65\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.66,290.8)\q2}GAAH
+Dialogue: 0,0:13:45.72,0:13:45.76,Typesetting [Junnin],,0,0,0,,{\fscx140.68\fscy140.68\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.7,290.78)\q2}GAAH
+Dialogue: 0,0:13:45.76,0:13:45.80,Typesetting [Junnin],,0,0,0,,{\fscx140.69\fscy140.69\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.72,290.77)\q2}GAAH
+Dialogue: 0,0:13:45.80,0:13:45.84,Typesetting [Junnin],,0,0,0,,{\fscx140.68\fscy140.68\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.76,290.8)\q2}GAAH
+Dialogue: 0,0:13:45.84,0:13:45.88,Typesetting [Junnin],,0,0,0,,{\fscx140.7\fscy140.7\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.8,290.78)\q2}GAAH
+Dialogue: 0,0:13:45.88,0:13:45.92,Typesetting [Junnin],,0,0,0,,{\fscx140.71\fscy140.71\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.81,290.77)\q2}GAAH
+Dialogue: 0,0:13:45.92,0:13:45.97,Typesetting [Junnin],,0,0,0,,{\fscx140.66\fscy140.66\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.87,290.85)\q2}GAAH
+Dialogue: 0,0:13:45.97,0:13:46.01,Typesetting [Junnin],,0,0,0,,{\fscx140.68\fscy140.68\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.89,290.83)\q2}GAAH
+Dialogue: 0,0:13:46.01,0:13:46.05,Typesetting [Junnin],,0,0,0,,{\fscx140.71\fscy140.71\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.88,290.8)\q2}GAAH
+Dialogue: 0,0:13:46.05,0:13:46.09,Typesetting [Junnin],,0,0,0,,{\fscx140.67\fscy140.67\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.92,290.86)\q2}GAAH
+Dialogue: 0,0:13:46.09,0:13:46.13,Typesetting [Junnin],,0,0,0,,{\fscx140.68\fscy140.68\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.92,290.85)\q2}GAAH
+Dialogue: 0,0:13:46.13,0:13:46.18,Typesetting [Junnin],,0,0,0,,{\fscx140.69\fscy140.69\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.93,290.84)\q2}GAAH
+Dialogue: 0,0:13:46.18,0:13:46.22,Typesetting [Junnin],,0,0,0,,{\fscx140.68\fscy140.68\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.94,290.9)\q2}GAAH
+Dialogue: 0,0:13:46.22,0:13:46.26,Typesetting [Junnin],,0,0,0,,{\fscx140.69\fscy140.69\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.94,290.88)\q2}GAAH
+Dialogue: 0,0:13:46.26,0:13:46.30,Typesetting [Junnin],,0,0,0,,{\fscx140.69\fscy140.69\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.95,290.9)\q2}GAAH
+Dialogue: 0,0:13:46.30,0:13:46.34,Typesetting [Junnin],,0,0,0,,{\fscx140.7\fscy140.7\alpha&H00&\an4\blur0.98\fs55\c&H0D0D0D&\fnBadonk-a-donk\pos(1394.95,290.9)\q2}GAAH
+Dialogue: 0,0:20:32.00,0:20:35.00,Typesetting [Junnin],,0,0,0,,{\blur0.8\fs85\c&H090C0A&\fnFOTBotan\b0\i0\pos(1486.56,169.11)\q2}Episódio 1
+Dialogue: 0,0:20:32.00,0:20:35.00,Typesetting [Junnin],,0,0,0,,{\blur0.8\an4\fs80\c&H090C0A&\fnFOTBotan\b0\i0\pos(993.58,707.33)\q2}Por que as\N pessoas dançam?
+Dialogue: 0,0:23:33.64,0:23:35.02,Typesetting [Junnin],,0,0,0,,{\blur0.8\an4\fs60\c&H090C0A&\fnFOTBotan\b0\i0\q2\pos(1277.58,1053.33)}Um projeto da SubVision
